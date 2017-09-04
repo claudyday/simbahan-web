@@ -1,0 +1,4 @@
+C:\Users\erwinjames\Documents\GitHub\simbahan-web\Simbahan.Shared\bin\Debug\Simbahan.dll
+C:\Users\erwinjames\Documents\GitHub\simbahan-web\Simbahan.Shared\bin\Debug\Simbahan.pdb
+C:\Users\erwinjames\Documents\GitHub\simbahan-web\Simbahan.Shared\obj\Debug\Simbahan.dll
+C:\Users\erwinjames\Documents\GitHub\simbahan-web\Simbahan.Shared\obj\Debug\Simbahan.pdb
